@@ -32,7 +32,7 @@ The Student Registry System is a full-stack web application designed to demonstr
 
 ### Database Setup
 
-1. **Install MySQL** and start the MySQL server.
+1. **Install XAMPP**, open its control panel then start the Php and MySQL server.
 2. **Create the database `student_db` and table `student`:**
    ```sql
    CREATE DATABASE student_db;
