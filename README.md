@@ -49,13 +49,13 @@ The Student Registry System is a full-stack web application designed to demonstr
    );
    ```
 ### Backend Setup
-
+If you want to try it;
 1. **Clone the repository and install dependencies:**
    ```bash
    cd student-registry-backend
    npm install
    ```
-2. **Configure MySQL credentials in `app.module.ts` or `.env` as needed.**
+2. **Configure MySQL credentials in `app.module.ts` as needed.**
 3. **Start the server:**
    ```bash
    npm run start
